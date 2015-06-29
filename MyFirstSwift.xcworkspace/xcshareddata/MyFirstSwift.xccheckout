@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>328C71F8-BF5E-4791-A3D4-4132A344AFA0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyFirstSwift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BDC5768E2C0904694C8FA355D117EBBF4E5662A4</key>
+		<string>https://github.com/appleboyguoli/MyFirstSwift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyFirstSwift.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BDC5768E2C0904694C8FA355D117EBBF4E5662A4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/appleboyguoli/MyFirstSwift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BDC5768E2C0904694C8FA355D117EBBF4E5662A4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BDC5768E2C0904694C8FA355D117EBBF4E5662A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyFirstSwift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
